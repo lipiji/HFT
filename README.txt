@@ -1,3 +1,5 @@
+Cloned from: http://cseweb.ucsd.edu/~jmcauley/code/code_RecSys13.tar.gz
+
 Compile using "make".
 
 You will need to export liblbfgs to your LD_LIBRARY_PATH to run the code (export LD_LIBRARY_PATH=$LD_LIBRARY_PATH:$PWD/liblbfgs-1.10/lib/.libs/).
